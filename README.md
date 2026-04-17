@@ -30,7 +30,7 @@ agent behaviors across **7 hands-on challenges** of increasing difficulty.
 | 4 | HR Assistant (New) | LLM Path Traversal | 300 | Unsanitized path input passed directly to file-reading tool |
 | 5 | System Engg Assistant | LLM Command Injection | 400 | Unsanitized input passed to shell via `check_availability` function |
 | 6 | PM Assistant | LLM SQL Injection | 500 | No access controls on NL-to-SQL agent — privileged table access |
-| 7 | Careers Assistant | LLM Prompt Injection | — | Poisoned resume content injected into HR-AUTH evaluation |
+| 7 | Careers Assistant | LLM Prompt Injection | 200 | Poisoned resume content injected into HR-AUTH evaluation |
 
 ---
 
