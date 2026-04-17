@@ -1,4 +1,4 @@
-# CTF Writeup — Sumeru Technology Solutions LLM CTF 2026
+# CTF Writeup Sumeru Technology Solutions LLM CTF 2026
 
 **Event:** Capture The Flag (CTF) of an LLM-based Application Environment  
 **Host:** Sumeru Technology Solutions  
@@ -10,7 +10,7 @@
 ## About the Event
 
 This CTF simulates a real-world LLM-based application environment where 
-participants attempt to bypass guardrails implemented in Large Language Models.
+Participants attempt to bypass guardrails implemented in Large Language Models.
 The fictional organization **SYM Corporation** uses AI assistants for tasks 
 such as answering user queries, retrieving internal policies, and supporting 
 day-to-day operations.
