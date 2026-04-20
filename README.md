@@ -2,7 +2,7 @@
 
 **Event:** Capture The Flag (CTF) of an LLM-based Application Environment  
 **Host:** Sumeru Technology Solutions  
-**Date:** 17th April 2026 (6:00 PM) — 18th April 2026 (6:00 PM)  
+**Date:** 17th April 2026 (6:00 PM) - 18th April 2026 (6:00 PM)  
 **Duration:** 24 hours (online)  
 
 ---
