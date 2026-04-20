@@ -1,7 +1,4 @@
----
 HR Assistant New
----
----
 
 **Points:** 300 
 **Category:** LLM Path Traversal
